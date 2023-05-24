@@ -9,5 +9,4 @@ public class MediscreenNotesApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(MediscreenNotesApplication.class, args);
 	}
-
 }
