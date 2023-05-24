@@ -1,0 +1,38 @@
+[
+  {
+    "patientId": 1,
+    "comment": ": TestNone Practitioner's notes/recommendations: Patient states that they are 'feeling terrific' Weight at or below recommended level"
+  },
+  {
+    "patientId": 2,
+    "comment": "Patient: TestBorderline Practitioner's notes/recommendations: Patient states that they are feeling a great deal of stress at work Patient also complains that their hearing seems Abnormal as of late"
+  },
+  {
+    "patientId": 2,
+    "comment": "Patient: TestBorderline Practitioner's notes/recommendations: Patient states that they have had a Reaction to medication within last 3 months Patient also complains that their hearing continues to be problematic"
+  },
+  {
+    "patientId": 3,
+    "comment": "Patient: TestInDanger Practitioner's notes/recommendations: Patient states that they are short term Smoker"
+  },
+  {
+    "patientId": 3,
+    "comment": "Patient: TestInDanger Practitioner's notes/recommendations: Patient states that they quit within last year Patient also complains that of Abnormal breathing spells Lab reports Cholesterol LDL high"
+  },
+  {
+    "patientId": 4,
+    "comment": "Patient: TestEarlyOnset Practitioner's notes/recommendations: Patient states that walking up stairs has become difficult Patient also complains that they are having shortness of breath Lab results indicate Antibodies present elevated Reaction to medication"
+  },
+  {
+    "patientId": 4,
+    "comment": "Patient: TestEarlyOnset Practitioner's notes/recommendations: Patient states that they are experiencing back pain when seated for a long time"
+  },
+  {
+    "patientId": 4,
+    "comment": "Patient: TestEarlyOnset Practitioner's notes/recommendations: Patient states that they are a short term Smoker Hemoglobin A1C above recommended level"
+  },
+  {
+    "patientId": 4,
+    "comment": "Patient: TestEarlyOnset Practitioner's notes/recommendations: Patient states that Body Height, Body Weight, Cholesterol, Dizziness and Reaction"
+  }
+]
